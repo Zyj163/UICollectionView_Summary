@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UICollectionView&#x5b66;&#x4e60;/Practise/Practise.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionView&#x5b66;&#x4e60;/Layout&#x5b66;&#x4e60;/Layout&#x5b66;&#x4e60;.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:UICollectionView&#x5b66;&#x4e60;/YJWaterFlowCollectionView"
+      name = "YJWaterFlowCollectionView">
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <Group
+         location = "group:WaterFlowCollectionView"
+         name = "WaterFlowCollectionView">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:WaterFlowCell.swift">
+         </FileRef>
+         <FileRef
+            location = "group:WaterFlowCell.xib">
+         </FileRef>
+         <FileRef
+            location = "group:YJWaterFlowLayout+MoveItem.swift">
+         </FileRef>
+         <FileRef
+            location = "group:YJWaterFlowLayout.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:WaterFlowCollectionView.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:UICollectionView&#x5b66;&#x4e60;/AutoFlowLayout/AutoFlowLayout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionView&#x5b66;&#x4e60;/FlowLayout/FlowLayout.xcodeproj">
+   </FileRef>
+</Workspace>
